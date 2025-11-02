@@ -6,23 +6,22 @@ I specialize in the **MERN stack** and **Flutter** (with Express + MongoDB backe
 ---
 
 ### 🧰 Tech Stack
-**Web:** React, Node.js, Express, MongoDB, MUI  
+**Web:** React, Node.js, Express, MongoDB, MUI, Tailwind CSS
 **Mobile:** Flutter, Firebase  
-**Tools:** Git, GitHub, Figma  
-**Currently Learning:** Tailwind CSS, TypeScript
+**Tools:** Git, GitHub, Figma, Postman. OWASP ZAP
 
 ---
 
 ### 🚀 Featured Projects
-- 🧠 [Capstone Project – Tomato Management System](https://github.com/your-capstone-repo)  
+- 🧠 [Capstone Project – CropTrack: A Web and Mobile Application for Crop Readiness and Decay Detection]
   A full-stack system for crop analysis, activity logging, and notifications (Web + Mobile).
-- 💼 [Portfolio Website](https://github.com/your-portfolio-repo) *(in progress)*
+- 💼 [Portfolio Website](https://github.com/choklim17/choklim-portfolio)
 
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
-[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/christopher-angelo-lim-1697681b8/)
+[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:limchok14@gmail.com)
 
 ---
 
