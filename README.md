@@ -29,5 +29,5 @@ I specialize in the **MERN stack** and **Flutter** (with Express + MongoDB backe
 
 ### 🧠 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,flutter,typescript,tailwind,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,flutter,tailwind,git,github,figma" />
 </p>
